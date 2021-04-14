@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_learn", "leetcode_learn\leetcode_learn.vcxproj", "{E48CC81E-F6F8-4AFC-B34E-63EC04D9BEB9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "choushuchazhao", "leetcode_learn\leetcode_learn.vcxproj", "{E48CC81E-F6F8-4AFC-B34E-63EC04D9BEB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trie", "trie\trie.vcxproj", "{C1447513-AD12-4D47-9181-F7C62B2950D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeSum", "ThreeSum\ThreeSum.vcxproj", "{296F1202-7914-47DA-9545-2CEA6073A2CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{E48CC81E-F6F8-4AFC-B34E-63EC04D9BEB9}.Release|x64.Build.0 = Release|x64
 		{E48CC81E-F6F8-4AFC-B34E-63EC04D9BEB9}.Release|x86.ActiveCfg = Release|Win32
 		{E48CC81E-F6F8-4AFC-B34E-63EC04D9BEB9}.Release|x86.Build.0 = Release|Win32
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Debug|x64.ActiveCfg = Debug|x64
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Debug|x64.Build.0 = Debug|x64
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Debug|x86.Build.0 = Debug|Win32
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Release|x64.ActiveCfg = Release|x64
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Release|x64.Build.0 = Release|x64
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Release|x86.ActiveCfg = Release|Win32
+		{C1447513-AD12-4D47-9181-F7C62B2950D1}.Release|x86.Build.0 = Release|Win32
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Debug|x64.ActiveCfg = Debug|x64
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Debug|x64.Build.0 = Debug|x64
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Debug|x86.Build.0 = Debug|Win32
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Release|x64.ActiveCfg = Release|x64
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Release|x64.Build.0 = Release|x64
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Release|x86.ActiveCfg = Release|Win32
+		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
