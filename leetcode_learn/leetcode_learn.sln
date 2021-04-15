@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trie", "trie\trie.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeSum", "ThreeSum\ThreeSum.vcxproj", "{296F1202-7914-47DA-9545-2CEA6073A2CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rob", "rob\rob.vcxproj", "{548D64F0-2D61-4BC3-8361-39308380BB0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Release|x64.Build.0 = Release|x64
 		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Release|x86.ActiveCfg = Release|Win32
 		{296F1202-7914-47DA-9545-2CEA6073A2CC}.Release|x86.Build.0 = Release|Win32
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Debug|x64.ActiveCfg = Debug|x64
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Debug|x64.Build.0 = Debug|x64
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Debug|x86.Build.0 = Debug|Win32
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Release|x64.ActiveCfg = Release|x64
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Release|x64.Build.0 = Release|x64
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Release|x86.ActiveCfg = Release|Win32
+		{548D64F0-2D61-4BC3-8361-39308380BB0B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
