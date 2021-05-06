@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learn\leetcode_learn\rob\main.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\learn\leetcode_learn\rob\main.cpp(32,5): error C2084: 函数“int Rob(std::vector<int,std::allocator<int>> &)”已有主体
+D:\learn\leetcode_learn\rob\main.cpp(6): message : 参见“Rob”的前一个定义

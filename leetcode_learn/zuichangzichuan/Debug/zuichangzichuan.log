@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\learn\leetcode_learn\zuichangzichuan\main.cpp(17,21): warning C4018: “<”: 有符号/无符号不匹配
+  zuichangzichuan.vcxproj -> D:\learn\leetcode_learn\Debug\zuichangzichuan.exe
